@@ -4,7 +4,7 @@ Hi 👋🏽 I'm a Geospatial Analyst turned <strong>Data engineer</strong> -  I'
 
 I enjoy and specialize in data engineering around geological, financial 📉  and operational data and to build data and digital transformation strategies for companies. 
 
-<strong>Certifications</strong> 🎓 | Google Data Analyst, IMB Data Science, Power BI Data Analyst Associate, AWS Solution Architect, Associate Data Engineer in SQL, IBM Data engineering
+<strong>Certifications</strong> 🎓 | Google Data Analyst, IBM Data Science, Power BI Data Analyst Associate, AWS Solution Architect, Associate Data Engineer in SQL, IBM Data engineering
 
 <strong>Tools</strong>💻: Power BI, Tableau, SQL and Python to create 100% data-driven, innovative insights using organizational data.
 <br><br>
