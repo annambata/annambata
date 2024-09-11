@@ -1,6 +1,6 @@
 # Who's Anna and What does she do? 👩🏽‍🏫 📊
 
-Hi 👋🏽 I'm a Geospatial Analyst turned <strong>Data engineer</strong> -  I'm a rational optimist, driven by the belief that positive change is possible through collaboration and community and passionate about <em> using technology to bring people together to elevate, build and expand communities</em>.
+Hi 👋🏽 I'm a Geospatial Analyst turned <strong>Data engineer</strong> -  I'm a rational optimist, driven by the belief that positive change is possible through collaboration and community and I am passionate about <em> using technology to bring people together to elevate, build and expand communities</em>.
 
 I enjoy and specialize in data engineering around geological, financial 📉  and operational data and to build data and digital transformation strategies for companies. 
 
